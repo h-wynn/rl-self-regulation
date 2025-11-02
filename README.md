@@ -31,7 +31,7 @@ Inspired by biological feedback mechanisms and decentralized market dynamics, th
 
 ## 📁 Repository Structure
 
-'''
+---
 
 rl-self-regulation/
 ├── requirements.txt # Dependencies (Gymnasium, PyTorch)
@@ -42,7 +42,7 @@ rl-self-regulation/
 │ ├── evaluate.py # Stability and correction metrics
 │ └── visualize.py # Graphical simulation outputs
 └── README.md # You are here
-'''
+---
 
 ---
 
